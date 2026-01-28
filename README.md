@@ -12,7 +12,7 @@
 # 1. Cài đặt công cụ, môi trường và các thư viện cần thiết
 
 ## 1.1. Clone project.
-git clone https://github.com/pax-glitch/TTDN-16-04-N3.git
+git clone https://github.com/nguyenducanh1152004/TTDN-16-04-N3.git
 git checkout 
 
 ## 1.2. cài đặt các thư viện cần thiết
